@@ -1,0 +1,28 @@
+{
+  "name": "canvas-raycaster",
+  "version": "0.0.1",
+  "description": "Raycaster demo using html5 canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimbob3806/canvas-raycaster.git"
+  },
+  "keywords": [
+    "raycaster",
+    "html5",
+    "canvas",
+    "webgl"
+  ],
+  "author": "James Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimbob3806/canvas-raycaster/issues"
+  },
+  "homepage": "https://github.com/jimbob3806/canvas-raycaster#readme",
+  "devDependencies": {
+    "rollup": "^3.20.2"
+  }
+}
